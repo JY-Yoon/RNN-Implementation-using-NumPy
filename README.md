@@ -3,7 +3,7 @@ RNN Implementation using NumPy
 
 - Sequence input, Char-level, Batch training, Python 3
 
-- You can train RNNs using different vector representations. (Try "glove" or "word2vec" to train the sequence of words instead of the "One-hot-vector")
+- You could train RNNs using different vector representations. (Try "glove" or "word2vec" to train the sequence of words instead of the "One-hot-vector")
 
 - This is a slightly modified version of the original code(Karpathy).
 
